@@ -1,0 +1,94 @@
+# default configuration
+baseURL = "http://examplesite.com"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "Agen Amidis Tangerang Selatan Adhi Barokah"
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+
+
+# menu
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 4
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+
+
+# default parameters
+[params]
+home = "Home"
+logo = "http://amidiswater.com/wp-content/uploads/2020/02/logo-amidis.png"
+# theme color
+theme_color = "#e64028"
+# contact info
+phone = "0811-1801-100 (Buka : Jam 7 Pagi - Tutup :  Jam 9 Malam)"
+email = ""
+address = "Perumahan Pondok Kacang Prima Blok i2 No.2<br/>Kecamatan Pondok Aren, Kelurahan Pondok Kacang Timur<br/>Tangerang Selatan, Banten 15225"
+# meta description
+author = "Adhi Prass"
+description = "This is meta description"
+# google analitycs
+google_analitycs_id = "" # Your ID
+# copyright
+copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+
+
+# contact
+[params.contact]
+enable = true
+form_action = "#" # contact form works with : https://formspree.io
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# social site
+[[params.social]]
+URL = "#"
+icon = "ti-facebook"
+
+[[params.social]]
+URL = "#"
+icon = "ti-instagram"
+
+[[params.social]]
+URL = "#"
+icon = "ti-dribbble"
+
+[[params.social]]
+URL = "#"
+icon = "ti-twitter-alt"
