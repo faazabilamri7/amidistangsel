@@ -1,3 +1,3 @@
 [submodule "themes/kross-hugo"]
 	path = themes/kross-hugo
-	url = git@github.com:faazabilamri7/kross-hugo.git
+	url = https://github.com/faazabilamri7/kross-hugo.git
