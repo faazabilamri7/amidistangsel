@@ -50,7 +50,7 @@ weight = 5
 # default parameters
 [params]
 home = "Home"
-logo = "http://amidiswater.com/wp-content/uploads/2020/02/logo-amidis.png"
+logo = "images/amidistangsel.png"
 # theme color
 theme_color = "#e64028"
 # contact info
