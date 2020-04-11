@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://friendly-swartz-1c1286.netlify.com/"
+baseURL = "https://amidistangsel.netlify.com/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
