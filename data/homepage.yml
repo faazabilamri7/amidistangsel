@@ -5,15 +5,16 @@ banner:
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : " AMIDIS adalah produk Air Minum Dalam Kemasan (AMDK) yang sudah diproduksi sejak tahun 1997 dan merupakan air minum distilasi pertama di Indonesia yang telah menjadi salah satu produk AMDK yang dipercaya karena kualitas mutu dan kemurniannya. Oleh karena itu, Amidis Tangsel pun kini hadir salah satunya untuk menyediakan kebutuhan Air Amidis di sekitar wilayah Tangerang 
+Selatan. Mulai dari wilayah "
   button:
     enable : true
-    label : "know more"
+    label : "Selengkapnya"
     URL : "about"
 
 # skill
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "Web Design"
@@ -35,31 +36,35 @@ skill:
 # experience
 experience:
   enable : true
-  title : "Experience"
+  title : "Keunggulan Air Amidis"
   item: 
-    - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+    - logo : "images/experience/a.png"
+      title : "pH Seimbang"
+      company : "Dengan pH seimbang 6-8 tidak mengganggu keseimbangan asam basa pada lambung"
       
-    - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+    - logo : "images/experience/b.png"
+      title : "Teknologi Distilasi 110°C"
+      company : "Satu-satunya air minum yang diproses dengan teknologi Distilasi"
       
-    - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+    - logo : "images/experience/c.png"
+      title : "Aman Bebas Bakteri dan Virus"
+      company : "Bebas dari bakteri, virus dan mineral non-organik yang berbahaya untuk kesehatan"
+
+    - logo : "images/experience/d.png"
+      title : "Air Murni (tds=0)"
+      company : "100% air murni dengan nilai tds=0 yaitu tidak terdapat zat lain yang terlarut"
+
+    - logo : "images/experience/e.png"
+      title : "Lebih Segar"
+      company : "Rasakan perbedaan dari kesegaran 100% air murni yang bermanfaat untuk kesehatan"
+
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Standar Nasional Indonesia (SNI)"
       
     - title : "Honours in Fine Arts"
       year : "2004"
@@ -76,21 +81,22 @@ education:
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Air Minum Amidis adalah satu-satunya air minum Distilasi yang diproses dengan Multi Purification Advanced Process, sehingga dipastikan lebih aman dan berkualitas"
   item:
-    - title : "UI Design"
-      icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : false
-
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - icon : "ti-palette"
+      content : "adalah sebuah proses penghilangan kadar garam dan mineral non organik dalam air melalui proses pertukaran ion (ion exchange process) dengan menggunakan media softener anion dan kation"
       highlighted : true
 
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - icon : "ti-vector"
+      content : "adalah suatu metode penyaringan yang dapat menyaring berbagai molekul besar dan ion-ion dari Air dengan cara memberi tekanan pada air untuk mampu menembus sisi membran (lapisan penyaring) yang sangat kecil/mikro"
+      highlighted : false
+
+    - icon : "ti-panel"
+      content : "suatu proses pemisahan air dan bahan kimia atau polutan non organik. Dalam penyulingan air dididihkan sehingga menguap dan uap ini kemudian didinginkan kembali ke dalam bentuk cairan sehingga bebas dari bakteri, virus, kuman dan partikel non organik."
+      highlighted : false
+
+    - icon : "ti-panel"
+      content : "adalah suatu proses sterilisasi untuk memastikan air benar-benar terbebas dari mikro-polutan"
       highlighted : false
 
 # portfolio
@@ -102,7 +108,7 @@ portfolio:
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
