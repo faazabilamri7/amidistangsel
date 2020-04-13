@@ -6,7 +6,7 @@ banner:
 about:
   enable : true
   content : " AMIDIS adalah produk Air Minum Dalam Kemasan (AMDK) yang sudah diproduksi sejak tahun 1997 dan merupakan air minum distilasi pertama di Indonesia yang telah menjadi salah satu produk AMDK yang dipercaya karena kualitas mutu dan kemurniannya. Oleh karena itu, Amidis Tangsel pun kini hadir salah satunya untuk menyediakan kebutuhan Air Amidis di sekitar wilayah Tangerang 
-Selatan. Mulai dari wilayah "
+Selatan."
   button:
     enable : true
     label : "Selengkapnya"
@@ -81,23 +81,23 @@ education:
 # service
 service:
   enable : true
-  title : "Air Minum Amidis adalah satu-satunya air minum Distilasi yang diproses dengan Multi Purification Advanced Process, sehingga dipastikan lebih aman dan berkualitas"
+  title : "Air Minum Amidis adalah air minum Distilasi yang diproses dengan Multi Purification Advanced Process, sehingga dipastikan lebih aman dan berkualitas"
   item:
-    - icon : "ti-palette"
+    - icon : "images/proses/a.png"
       content : "adalah sebuah proses penghilangan kadar garam dan mineral non organik dalam air melalui proses pertukaran ion (ion exchange process) dengan menggunakan media softener anion dan kation"
       highlighted : true
 
-    - icon : "ti-vector"
+    - icon : "images/proses/b.png"
       content : "adalah suatu metode penyaringan yang dapat menyaring berbagai molekul besar dan ion-ion dari Air dengan cara memberi tekanan pada air untuk mampu menembus sisi membran (lapisan penyaring) yang sangat kecil/mikro"
-      highlighted : false
+      highlighted : true
 
-    - icon : "ti-panel"
+    - icon : "images/proses/c.png"
       content : "suatu proses pemisahan air dan bahan kimia atau polutan non organik. Dalam penyulingan air dididihkan sehingga menguap dan uap ini kemudian didinginkan kembali ke dalam bentuk cairan sehingga bebas dari bakteri, virus, kuman dan partikel non organik."
-      highlighted : false
+      highlighted : true
 
-    - icon : "ti-panel"
+    - icon : "images/proses/d.png"
       content : "adalah suatu proses sterilisasi untuk memastikan air benar-benar terbebas dari mikro-polutan"
-      highlighted : false
+      highlighted : true
 
 # portfolio
 portfolio:
