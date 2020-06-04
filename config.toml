@@ -28,23 +28,18 @@ URL = "plugins/shuffle/shuffle.min.js"
 # menu
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Tentang Amidis"
 weight = 2
 
 [[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "portfolio"
+name = "Ukuran"
 weight = 3
 
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
-
-[[menu.main]]
 URL = "contact"
-name = "Contact"
-weight = 5
+name = "Kontak"
+weight = 4
 
 
 # default parameters
@@ -56,10 +51,10 @@ theme_color = "#e64028"
 # contact info
 phone = "0811-1801-100 (Buka : Jam 7 Pagi - Tutup :  Jam 9 Malam)"
 email = ""
-address = "Perumahan Pondok Kacang Prima Blok i2 No.2<br/>Kecamatan Pondok Aren, Kelurahan Pondok Kacang Timur<br/>Tangerang Selatan, Banten 15225"
+address = "Perumahan Pondok Kacang Prima Blok i2 No.2, Kecamatan Pondok Aren, Kelurahan Pondok Kacang Timur, Tangerang Selatan, Banten 15225"
 # meta description
 author = "Adhi Prass"
-description = "This is meta description"
+description = "Agen Amidis Tangerang Selatan Adhi Barokah"
 # google analitycs
 google_analitycs_id = "" # Your ID
 # copyright

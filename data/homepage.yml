@@ -102,7 +102,7 @@ service:
 # portfolio
 portfolio:
   enable : true
-  title : "Portfolio"
+  title : "Pesan Amidis Water 0811-1801-100"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
@@ -130,38 +130,19 @@ testimonial:
 clients_logo_slider:
   enable : true
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/mui.png"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+    - logo : "images/clients-logo/bpom2.png"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/sni.png"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+    - logo : "images/clients-logo/iso2008.png"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/iso2005.png"
       
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
 
 # blog
 blog:
-  enable : true
-  title : "Blogs"
+  enable : false
+  title : "Info Amidis"
   # blog post comes from "content/blog" folder
