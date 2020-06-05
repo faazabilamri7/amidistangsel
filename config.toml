@@ -45,7 +45,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = "images/amidistangsel.png"
+logo = "images/amidistangselbig-min.png"
 # theme color
 theme_color = "#e64028"
 # contact info
