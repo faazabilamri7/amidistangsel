@@ -1,1 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="93"><path d="M13.457 92.605c4.222 1.255 18.903 1.084 28.69-25.282C53.03 38.006 58.15 33.413 67.072 24.062c12.273-12.864.45-32.164-22.503-20.418C21.617 15.389-.26 53.084.002 70.11c.176 11.363 3.565 19.555 13.455 22.495z" fill="#fe744f"/><path d="M55.658 5.276a1.506 1.516 0 0 0-1.06.398S37.618 20.932 25.012 43.08c-9.265 16.275-11.33 38.413-11.768 49.454.073.022.14.05.213.073.682.202 1.657.35 2.819.375.45-10.72 2.47-32.798 11.35-48.396C39.95 22.935 56.605 7.934 56.605 7.934a1.506 1.516 0 0 0-.947-2.658z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" color="#000" font-weight="400" font-family="sans-serif" overflow="visible" fill="#da6048"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="leaf-orange.svg"
+   id="svg6"
+   version="1.1"
+   height="93"
+   width="72">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg6"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="50.532684"
+     inkscape:cx="35.468636"
+     inkscape:zoom="4.0905747"
+     showgrid="false"
+     id="namedview8"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     id="path4"
+     fill="#da6048"
+     overflow="visible"
+     font-family="sans-serif"
+     font-weight="400"
+     color="#000000"
+     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;solid-opacity:1;fill:#e41e25;fill-opacity:1"
+     d="m 45.879423,1.6090336 a 1.506,1.516 0 0 0 -1.06,0.398 c 0,0 -16.98,15.2579994 -29.586,37.4059994 -9.265,16.275 -11.33,38.413 -11.768,49.454 0.073,0.022 0.14,0.05 0.213,0.073 0.682,0.202 1.657,0.35 2.819,0.375 0.45,-10.72 2.47,-32.798 11.35,-48.396 12.324,-21.651 28.979,-36.6519994 28.979,-36.6519994 a 1.506,1.516 0 0 0 -0.947,-2.658 z" />
+  <path
+     d="m 53.967011,2.8400042 a 1.506,1.516 0 0 0 -1.06,0.398 c 0,0 -16.98,15.2579988 -29.586,37.4059988 -9.265,16.275 -11.33,38.413 -11.768,49.454 0.073,0.022 0.14,0.05 0.213,0.073 0.682,0.202 1.657,0.35 2.819,0.375 0.45,-10.72 2.47,-32.798 11.35,-48.396 12.324,-21.651 28.979,-36.6519988 28.979,-36.6519988 a 1.506,1.516 0 0 0 -0.947,-2.658 z"
+     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;solid-opacity:1;fill:#e41e25;fill-opacity:1"
+     color="#000000"
+     font-weight="400"
+     font-family="sans-serif"
+     overflow="visible"
+     fill="#da6048"
+     id="path4-2" />
+  <path
+     d="m 61.056479,5.2846486 a 1.506,1.516 0 0 0 -1.06,0.398 c 0,0 -16.98,15.2579984 -29.586,37.4059994 -9.265,16.275 -11.33,38.413 -11.768,49.454 0.073,0.022 0.14,0.05 0.213,0.073 0.682,0.202 1.657,0.35 2.819,0.375 0.45,-10.72 2.47,-32.798 11.35,-48.396 12.324,-21.651001 28.979,-36.6519998 28.979,-36.6519998 a 1.506,1.516 0 0 0 -0.947,-2.6579996 z"
+     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;solid-opacity:1;fill:#e41e25;fill-opacity:1"
+     color="#000000"
+     font-weight="400"
+     font-family="sans-serif"
+     overflow="visible"
+     fill="#da6048"
+     id="path4-8" />
+</svg>

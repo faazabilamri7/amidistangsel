@@ -1,6 +1,6 @@
 # default configuration
 baseURL = "https://amidistangsel.com/"
-languageCode = "en-us"
+languageCode = "id"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Agen Amidis Tangerang Selatan Adhi Barokah"
@@ -58,7 +58,7 @@ description = "Agen Amidis Tangerang Selatan Adhi Barokah"
 # google analitycs
 google_analitycs_id = "" # Your ID
 # copyright
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com) and modification by [akhfaaza](https://fb.com/akhfaaza)"
 
 
 # contact
