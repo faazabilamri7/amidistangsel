@@ -44,7 +44,7 @@ weight = 4
 
 # default parameters
 [params]
-home = "Home"
+home = "Beranda"
 logo = "images/amidistangselbig-min.png"
 # theme color
 theme_color = "#e64028"
