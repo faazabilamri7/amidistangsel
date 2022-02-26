@@ -3,7 +3,7 @@ baseURL = "https://amidistangsel.com/"
 languageCode = "id"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Agen Amidis Tangerang Selatan Adhi Barokah"
+title = "Agen Amidis Tangerang Selatan Gensqu Store"
 
 # css plugins
 [[params.plugins.css]]
@@ -49,12 +49,12 @@ logo = "images/amidistangselbig-min.png"
 # theme color
 theme_color = "#e64028"
 # contact info
-phone = "0811-1801-100 (Buka : Jam 7 Pagi - Tutup :  Jam 6 Sore)"
+phone = "0878-6467-2682 (Buka : Jam 7 Pagi - Tutup :  Jam 6 Sore)"
 email = ""
 address = "Perumahan Pondok Kacang Prima Blok i2 No.2, Kecamatan Pondok Aren, Kelurahan Pondok Kacang Timur, Tangerang Selatan, Banten 15225"
 # meta description
-author = "Adhi Prass"
-description = "Agen Amidis Tangerang Selatan Adhi Barokah"
+author = "Gensqu Store"
+description = "Agen Amidis Tangerang Selatan Gensqu Store"
 # google analitycs
 google_analitycs_id = "" # Your ID
 # copyright
