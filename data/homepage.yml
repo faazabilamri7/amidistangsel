@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Agen Amidis <br> Tangerang Selatan <br> Adhi Barokah"
+  title : "Agen Amidis <br> Tangerang Selatan <br> Gensqu Store"
 
 # about
 about:
@@ -102,7 +102,7 @@ service:
 # portfolio
 portfolio:
   enable : true
-  title : "Pesan Amidis Water 0811-1801-100"
+  title : "Pesan Amidis Water 0878-6467-2682"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
