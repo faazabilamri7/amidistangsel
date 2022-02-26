@@ -2,7 +2,7 @@
 baseURL = "https://amidistangsel.com/"
 languageCode = "id"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "theme-lokal"
 title = "Agen Amidis Tangerang Selatan Gensqu Store"
 
 # css plugins
